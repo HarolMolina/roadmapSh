@@ -1,5 +1,5 @@
 # roadmap-sh-projects.
- Este repositorio contiene mis proyectos de aprendizaje de [roadmap.sh](https://https://roadmap.sh/backend/projects), desarrollados en **Linux Mint** usando **C# y Dotnet**, la idea es ir completando cada proyecto y guardarlo en su propia carpeta dentro de este repositorio
+ Este repositorio contiene mis proyectos de aprendizaje de [roadmap.sh](https://https://roadmap.sh/backend/projects), desarrollados en **C# y Dotnet**, la idea es ir completando cada proyecto y guardarlo en su propia carpeta dentro de este repositorio
 
  ## Organizacion 
  - Cada proyecto esta en una carpeta independiente.
